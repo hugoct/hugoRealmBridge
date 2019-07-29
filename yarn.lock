@@ -2909,10 +2909,10 @@ http-signature@~1.2.0:
     jsprim "^1.2.2"
     sshpk "^1.7.0"
 
-hugo-realm-lib@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/hugo-realm-lib/-/hugo-realm-lib-1.0.0.tgz#ada78a2c9bd58e0c2781f5ea9f6c05aae8bdd837"
-  integrity sha512-oh0P3sR00TxpxRcKP+Y+UasNUTiZtaBx/FsXDCmJD/7jeiSdd7yn+OdJFA9cvSGgGXDXqwowJIE+hVZTSv7spA==
+hugo-realm-lib@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/hugo-realm-lib/-/hugo-realm-lib-1.0.1.tgz#ba1090c589b42beff1a3e7915ff821f2be3d5dae"
+  integrity sha512-V6PJl3tOPHVDbMZcVl7vnj4qvvI/WuOhCQ5PrEQFVSlGFKIgTwBLzt9zeUCZyxlSkQsipVu2jdPzALt52HnQHQ==
 
 iconv-lite@0.4.24, iconv-lite@^0.4.17, iconv-lite@^0.4.24, iconv-lite@^0.4.4, iconv-lite@~0.4.13:
   version "0.4.24"
